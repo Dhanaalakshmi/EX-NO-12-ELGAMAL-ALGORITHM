@@ -62,8 +62,6 @@ int main() {
 ~~~
 ## Output:
 ![cry ex 12](https://github.com/user-attachments/assets/27a5af6b-cee9-4048-a330-c1dd4eb4f09d)
-## Result:
-The program is executed successfully.
 
 ## RESULT:
 The program is executed successfully.
